@@ -16,7 +16,7 @@ A simple Python script that automatically organizes files into folders based on 
 ##  How to Use
 
 1. Clone the repository:
-   git clone https://github.com/Antaeus5/file-organizer-python.git
+   git clone https://github.com/Antaeus5/file-organizer-phyton.git
 
 2. Navigate to the folder:
    cd file-organizer-python
